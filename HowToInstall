@@ -3,3 +3,5 @@ Download the File
 Open the File as Terminal and write "chmod +x HackListV4.sh"
 
 then Run the File by using the Command "./HackListV4.sh"
+
+Make sure the english_words.txt file is located on your desktop
